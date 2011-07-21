@@ -1,0 +1,5 @@
+- Upload with https.
+- Progressbar on file upload and during analysis.
+- Use Localization kit.
+- Find a way to add result listview only if positives are found (by using ALM).
+- Better GUI for displaying results (ColumnListView).

@@ -1,0 +1,4 @@
+
+Folstein is a Virus Total client for Haiku.
+It is composed of a client application and a tracker addon so that any file can
+be checked against any malware very easily.
